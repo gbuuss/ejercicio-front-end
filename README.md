@@ -1,4 +1,4 @@
-# Prueba FrontEnd #
+# Prueba Front-end #
 La siguiente es una prueba para evaluar conocimientos de HTML, CSS, JavaScript y diseño Responsive.
 
 Se busca que cumpla con los requerimientos especificados.

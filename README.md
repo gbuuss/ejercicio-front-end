@@ -21,5 +21,6 @@ Es necesario contar con una cuenta en BitBucket para realizar este ejercicio.
 
    * Si los datos ingresados en la ventana de login son correctos se debe mostrar una ventana modal de bootstrap indicando el siguiente mensaje: "Los datos son correctos, Bienvenido".
 
+** Por cualquier consulta contactarse a [lhermida@powdersa.com](mailto: lhermida@powdersa.com) y [jdiaz@powdersa.com](mailto: jdiaz@powdersa.com)**.
 
-**Para finalizar la tarea se requiere crear un archivo Zip con los archivos necesarios y enviar por correo a  [lhermida@powdersa.com](mailto: lhermida@powdersa.com) y [jdiaz@powdersa.com](mailto: jdiaz@powdersa.com)**.
+**Al finalizar la tarea enviar los archivos comprimidos a [lhermida@powdersa.com](mailto: lhermida@powdersa.com) y [jdiaz@powdersa.com](mailto: jdiaz@powdersa.com)**.
